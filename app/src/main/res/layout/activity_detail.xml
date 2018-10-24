@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<LinearLayout
+    android:orientation="vertical"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <ImageView
+        android:id="@+id/imgGambarDetail"
+        android:src="@drawable/kartun"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:layout_width="90dp"
+        android:layout_height="90dp" />
+
+    <TextView
+        android:id="@+id/txtDaftar"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+        android:text="tengah"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtIsiDetail"
+        android:padding="15dp"
+        android:layout_marginTop="25dp"
+        android:text="Lorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem ipsumLorem Ipsum lorem ipsum lorem ipsum lorem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+</ScrollView>

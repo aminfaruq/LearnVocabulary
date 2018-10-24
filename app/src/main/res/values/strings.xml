@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Learn Vocabulary</string>
+
+    <string-array name="daftar">
+        <item>In the classroom</item>
+        <item>On the road</item>
+        <item>At the mall</item>
+    </string-array>
+
+    <string-array name="isi">
+        <item>• Answer = Jawaban\n\n
+• Arithmetic = Aritmatika\n\n
+• Assignment = tugas\n\n
+• Atlas = atlas/ peta dunia\n\n
+• Backpack = tas ransel\n\n
+• ballpoint pen = pulpen bolpoin\n\n
+• binder = penjilid buku\n\n
+• blackboard = papan tulis hitam\n\n
+• book = buku\n\n
+• bookcase = sampul buku\n\n
+• bookmark = pembatas buku\n\n
+• calculator = kalkulator\n\n
+• calendar = kalender\n\n
+• chalk = kapurn\n\n
+• chalk board = papan tulis kapur\n\n
+• class clown = badut kelas\n\n
+• classroom = ruang kelas\n\n
+• clip board = papan tempel\n\n
+• colored pencils = pensil warna\n\n
+• compass = kompasn\n\n
+• computer = komputer\n\n
+• construction paper = kertas konstruksi\n\n
+• crayons = krayon\n\n
+• desk = meja tulis\n\n
+• dictionary = kamus\n\n
+• dividers = jangka pembagi garis\n\n
+• easel = kuda-kuda\n\n
+• encyclopedia = ensiklopedia\n\n
+• English = bahasa Inggris\n\n
+• Eraser = penghapus, hapusan\n\n
+• Exam = ujian\n\n
+• Examination = ujian\n\n
+• Experiment = percobaan, eksperimen\n\n
+• file folder = map tempat menyimpan berkas\n\n
+• folder = map berkas\n\n
+• gel pen = pulpen jel\n\n
+• geography = geografi\n\n
+• globe = bola dunia\n\n
+• glossary = daftar kata, glosarium\n\n
+• glue = lem\n\n
+• grades = peringkat\n\n
+• gym = gymnasium\n\n
+• highlighter = alat tulis untuk menandai tulisan\n\n
+• history = sejarah\n\n
+• homework = pekerjaan rumah (PR)\n\n
+• ink = tinta\n\n
+• intelligent = cerdas\n\n
+• keyboard = papan ketik\n\n
+• language = bahasa\n\n
+• laptop = laptop/ komputer jinjing\n\n
+• Learn = belajar v.\n\n
+• lesson = pelajaran\n\n
+• library = perpustakaan\n\n
+• looseleaf paper = kertas file yang lubang-lubang di tepinya\n\n
+• lunch = makan siang\n\n
+• lunch box = kotak makan siang\n\n
+• map = peta\n\n
+• markers = spidol\n\n
+• math = matematika (disingkat)\n\n
+• mathematics = matematika\n\n
+• mechanical pencil = pensil mekanik\n\n
+• memo pad = kertas memo\n\n
+• Memorize = menghafal v.\n\n
+• notebook = buku catatan\n\n
+• paper = kertas\n\n
+• paper clip = klip kertas\n\n
+• paper punch = penjepit kertas\n\n
+• Paste = lem perekat, menempelkan v.\n\n
+• pen = pena\n\n
+• pencil = pena\n\n
+• pencil pouch = kantung meletakan pensil\n\n
+• pencil sharpener = rautan pensil\n\n
+• physical education = pendidikan fisik\n\n
+• portfolio = portepel\n\n
+• poster paint = cat poster\n\n
+• principal = kepala sekolah\n\n
+• printer = pencetak\n\n
+• project = proyek\n\n
+• protractor = busur derajat\n\n
+• pupil = murid\n\n
+• question = pertanyaan\n\n
+• quiz = kuis, ujian kecil\n\n
+• recess = istirahat keluar main\n\n
+• rubber bands = karet gelang\n\n
+• ruler = penggaris\n\n
+• science = ilmu pengetahuan, sains\n\n
+• scissors = gunting\n\n
+• sharpener = rautan\n\n
+• smart = pintar\n\n
+• spiral notebook = buku catatan spiral\n\n
+• stapler = stepler, alat pengokot\n\n
+• staple remover = alat untuk melepaskan kokotan\n\n
+• student = murid\n\n
+• tape = pita, perekat\n\n
+• teacher = guru\n\n
+• test = ujian\n\n
+• thesaurus = kamus, buku keterangan kata\n\n
+• Think = berpikir v.\n\n
+• vocabulary = kosa kata\n\n
+• whiteboard = papan tulis putih\n\n
+• word processor = pengolah kata\n\n
+• world map = peta dunia\n\n
+• writing = menulis\n\n
+• yardstick = kayu meteran yar</item>
+        <item>- Bus station = halte bus\n\n
+
+- Bus stop = pemberhentian bus\n\n
+
+- straight ahead = terus saja.\n\n
+
+- traffic light = lampu merah\n\n
+
+- intersection = persimpangan\n\n
+
+- stop sign = tanda berhenti\n\n
+
+- no parking = dilarang parkir.\n\n
+
+- dangerous curve = tikungan berbahaya\n\n
+
+- road work = perbaikan jalan\n\n
+
+- one way = satu arah\n\n
+- no entry = dilarang masuk\n\n
+
+- road closed = jalan ditutup\n\n
+
+- toll road = jalan tol\n\n
+
+- no passing = dilarang menyalip\n\n
+
+- no u-turn = dilarang putar balik\n\n
+
+- traffic signal ahead = sinyal lalu lintas di depan\n\n
+
+- traffic circle / roundabout = bundaran\n\n
+
+- detour = jalan memutar\n\n
+
+- stay in lane = tetaplah di jalur anda\n\n
+
+- low bridge = jembatan rendah\n\n
+
+- use headlights = gunakan lampu depan kendaraan\n\n
+
+- pedestrian crosswalk = penyebrangan pejalan kaki\n\n
+
+- car accident = kecelakaan mobil</item>
+        <item>No\n	English	\nIndonesian\n\n
+1	Basket	Keranjang\n\n
+2	Money	Uang\n\n
+3	Cashier	Kasir\n\n
+4	Change	Kembalian\n\n
+5	Plastic Bag	Kantong Plastik\n\n
+6	Shop	Toko\n\n
+7	Trolley	Troli\n\n
+8	Cash	Uang Tunai\n\n
+9	Cheque	Cek Uang\n\n
+10	Credit Card	Kartu Kredit\n\n
+11	Debit Card	Kartu Debit\n\n
+12	Coin	Koin\n\n
+13	Customer	Pelanggan\n\n
+14	Till	Mesin Kas\n\n
+15	Scales	Timbangan\n\n
+16	Receipt	Tanda Terima\n\n
+17	Shelf	Rak Barang\n\n
+18	Wallet	Dompet Laki-Laki\n\n
+19	Purse	Dompet Wanita\n\n
+20	Aisle	Lorong Toko\n\n
+21	Lift	Lif\n\n
+22	Escalator	Eskalator\n\n
+23	Market	Pasar\n\n
+24	Supermarket	Pasar Swalayan</item>
+    </string-array>
+</resources>
